@@ -1,0 +1,48 @@
+body {
+    background-color: #fff;
+    color: #212529;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0;
+    /*text-align: left;*/
+}
+
+/*.container {
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}*/
+
+.header {
+    background-color: #477bff;
+    color: #fff;
+    /*margin-top: 300px;
+    margin-bottom: 300px; */
+    padding: 40px 20px;
+    /*margin-inline: 100px ; */
+    text-align: center;
+    font-size: 30px;
+    /*border: 1px solid black;*/
+}
+
+
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    /*font-size: 36px;*/
+}
+
+p {
+    margin-left: 4 rem;
+    padding: 0.5rem 2rem;
+}
+
+a   {
+    background-color:transparent; 
+}
+
+/* 
+CSS code below for slideshow styling from:  
+https://www.w3schools.com/howto/howto_js_slideshow.asp
+*/
